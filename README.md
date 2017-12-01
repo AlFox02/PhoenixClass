@@ -1,2 +1,2 @@
 # PhoenixClass
-PhoenixClass is a class-based repository to help you creating own telegram bots!
+PhoenixClass is a class-based repository that can help you creating own telegram bots!
